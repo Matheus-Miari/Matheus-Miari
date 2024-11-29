@@ -33,15 +33,20 @@ When I’m not coding, I enjoy gaming, watching movies, and brainstorming ideas 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-miari-59b673274/)
 
 <!-- GithubStats -->
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Miari&show_icons=true&theme=gotham)
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Miari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Miari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <!-- Portfólio -->
 ## Portfolio:
 - 🚧 Em construção 🚧
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xrM29kZnU5OTFzYmZmZ3V0Y2tqcDRpaGh5emV4ZGNuMjc2MnU5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
