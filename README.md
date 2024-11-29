@@ -10,7 +10,6 @@
 
   - 🌱 I’m currently studying Software Engineering and specializing in Data Engineering. I'm also diving into front-end development, learning HTML, CSS, and JavaScript.
   
-  - 🔭 My goal is to work as a Data Engineer while I complete my degree, and eventually use my skills to innovate in healthcare tech.
 </p>
 
 <!-- Dropdown -->
