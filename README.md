@@ -6,9 +6,9 @@
 
 <!-- Apresentação -->
 <p>
-  Hi 👋, I'm Matheus! A passionate Software Engineering student and aspiring Data Engineer from Brazil.
+  Hi 👋, I'm Matheus! A passionate Software Engineering student from Brazil.
 
-  - 🌱 I’m currently studying Software Engineering and specializing in Data Engineering. I'm also diving into front-end development, learning HTML, CSS, and JavaScript.
+  - 🌱 I’m currently studying Software Engineering. I'm also diving into front-end development, learning HTML, CSS, and JavaScript.
   
 </p>
 
