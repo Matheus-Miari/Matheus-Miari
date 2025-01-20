@@ -25,7 +25,7 @@ Além de programar, sou inspirado pela ideia de usar a tecnologia para melhorar 
 
 Quando não estou programando, gosto de jogar, assistir filmes e pensar em ideias para novos projetos.
 
-  - ⚡ Fora da programação, tenho experiência em enfermagem e gestão hospitalar. Sou também apaixonado por jogos, filmes e pela ideia de explorar soluções tecnológicas para melhorar vidas. 
+  - ⚡ Fora da programação, tenho experiência em enfermagem, sala de emergências e UTI. Sou também apaixonado por jogos, filmes e pela ideia de explorar soluções tecnológicas para melhorar vidas. 
 </details>
 
 <!-- Links -->
