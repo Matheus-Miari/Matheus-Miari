@@ -6,7 +6,7 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, eu sou o Matheus! Um estudante de Engenharia de Software.
+  Olá 👋, eu sou o Matheus!.
 
   - 🌱 Atualmente, estou cursando Engenharia de Software e me aprofundando no desenvolvimento front-end, aprendendo HTML, CSS e JavaScript.
 </p>
