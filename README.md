@@ -13,20 +13,15 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+<summary>👨‍💻 Mais sobre mim</summary>
 
-Olá 👋, eu sou o Matheus! Um estudante de Engenharia de Software do Brasil, atualmente explorando o desenvolvimento front-end e trabalhando para me tornar um desenvolvedor fullstack.
+Foco atual em desenvolvimento front-end e transição para fullstack.
 
-🌱 Estou estudando HTML, CSS e JavaScript, além de expandir minhas habilidades com frameworks e bibliotecas modernas.  
-🔭 Meu objetivo atual é criar sites responsivos e fáceis de usar, enquanto adquiro experiência em tecnologias de backend para completar minha jornada rumo ao fullstack.  
-💻 Sou um técnico de enfermagem em transição para a área de tecnologia, trazendo uma perspectiva única e habilidades de resolução de problemas adquiridas na área da saúde.  
+Atualmente estudo HTML, CSS e JavaScript, com interesse em frameworks modernos e tecnologias de backend.  
+Tenho experiência prévia como técnico de enfermagem, atuando em contextos como sala de emergência e UTI, o que fortaleceu minha capacidade de trabalhar sob pressão e resolver problemas.
 
-Além de programar, sou inspirado pela ideia de usar a tecnologia para melhorar a vida das pessoas e criar soluções inovadoras para desafios do dia a dia.  
-
-Quando não estou programando, gosto de jogar, assistir filmes e pensar em ideias para novos projetos.
-
-  - ⚡ Fora da programação, tenho experiência em enfermagem, sala de emergências e UTI. Sou também apaixonado por jogos, filmes e pela ideia de explorar soluções tecnológicas para melhorar vidas. 
 </details>
+
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-miari-59b673274/)
